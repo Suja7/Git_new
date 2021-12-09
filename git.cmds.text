@@ -1,0 +1,14 @@
+git init
+git status
+git add
+git commit -m "<comments>"
+git remote add origin <github repo link>
+git push -u origin master
+
+Branch:
+git branch "branch name"
+git checkout "branch name"
+git merge "branch name"
+git branch -d "branch name" [-->deletes from local
+git push origin --delete "branch name" [--> delete from branch ]
+
